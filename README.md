@@ -73,13 +73,13 @@ Formula utilizada:
 
 ## Grafico 1 - Tempo de Execucao
 
-![Tempo de Execucao](graficos/tempo_execucao.png)
+![Tempo de Execucao](tempo_execucao.png)
 
 ## Grafico 2 - Speedup
 
-![Speedup](graficos/speedup.png)
+![Speedup](speedup.png)
 
 ## Grafico 3 - Eficiencia
 
-![Eficiencia](graficos/eficiencia.png)
+![Eficiencia](eficiencia.png)
 
